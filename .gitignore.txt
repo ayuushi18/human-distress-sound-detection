@@ -1,0 +1,6 @@
+__pycache__/
+*.pkl
+*.joblib
+*.wav
+*.mp3
+data/
